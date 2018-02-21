@@ -1,1 +1,4 @@
 #testing_mind
+
+
+MODIFIED CHECKING IN THE READ ME FILE 
